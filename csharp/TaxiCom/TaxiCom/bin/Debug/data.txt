@@ -1,0 +1,16 @@
+Driver;Іван;Toyota;AA1234BB;false;5
+Driver;Петро;Mazda;BC5678CD;true;4
+Driver;Олег;BMW;KA9999EE;false;3
+Driver;Андрій;Honda;AB1111CC;false;5
+Driver;Марія;Hyundai;XY2222ZZ;true;4
+Driver;Сергій;Ford;CD3333EF;false;3
+Driver;Оксана;Kia;GH4444IJ;false;4
+
+Car;Toyota;AA1234BB;false;120345
+Car;Mazda;BC5678CD;true;23145
+Car;BMW;KA9999EE;false;35523
+Car;Honda;AB1111CC;false;54000
+Car;Hyundai;XY2222ZZ;true;27000
+Car;Ford;CD3333EF;false;89000
+Car;Kia;GH4444IJ;false;43000
+Driver;Артем;Audi;ВХ2222АА;True;5

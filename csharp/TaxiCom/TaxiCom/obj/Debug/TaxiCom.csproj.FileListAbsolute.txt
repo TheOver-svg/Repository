@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\TaxiCom\TaxiCom\bin\Debug\TaxiCom.exe.config
+C:\Users\Asus\source\repos\TaxiCom\TaxiCom\bin\Debug\TaxiCom.exe
+C:\Users\Asus\source\repos\TaxiCom\TaxiCom\bin\Debug\TaxiCom.pdb
+C:\Users\Asus\source\repos\TaxiCom\TaxiCom\obj\Debug\TaxiCom.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\TaxiCom\TaxiCom\obj\Debug\TaxiCom.Form1.resources
+C:\Users\Asus\source\repos\TaxiCom\TaxiCom\obj\Debug\TaxiCom.Properties.Resources.resources
+C:\Users\Asus\source\repos\TaxiCom\TaxiCom\obj\Debug\TaxiCom.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\TaxiCom\TaxiCom\obj\Debug\TaxiCom.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\TaxiCom\TaxiCom\obj\Debug\TaxiCom.exe
+C:\Users\Asus\source\repos\TaxiCom\TaxiCom\obj\Debug\TaxiCom.pdb
+C:\Users\Asus\source\repos\TaxiCom\TaxiCom\obj\Debug\TaxiCom.exe.config
+C:\Users\Asus\source\repos\TaxiCom\TaxiCom\obj\Debug\TaxiCom.DriverCard.resources
+C:\Users\Asus\source\repos\TaxiCom\TaxiCom\obj\Debug\TaxiCom.CarCard.resources
+C:\Users\Asus\source\repos\TaxiCom\TaxiCom\obj\Debug\TaxiCom.AddDriver.resources
+C:\Users\Asus\source\repos\TaxiCom\TaxiCom\obj\Debug\TaxiCom.DeleteDrivers.resources

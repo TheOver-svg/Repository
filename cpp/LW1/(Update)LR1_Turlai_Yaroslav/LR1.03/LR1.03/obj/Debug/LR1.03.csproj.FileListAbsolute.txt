@@ -1,0 +1,13 @@
+C:\Users\Asus\source\repos\LR1.03\LR1.03\bin\Debug\LR1.03.exe.config
+C:\Users\Asus\source\repos\LR1.03\LR1.03\bin\Debug\LR1.03.exe
+C:\Users\Asus\source\repos\LR1.03\LR1.03\bin\Debug\LR1.03.pdb
+C:\Users\Asus\source\repos\LR1.03\LR1.03\obj\Debug\LR1.03.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\LR1.03\LR1.03\obj\Debug\LR1._03.Form1.resources
+C:\Users\Asus\source\repos\LR1.03\LR1.03\obj\Debug\LR1._03.Properties.Resources.resources
+C:\Users\Asus\source\repos\LR1.03\LR1.03\obj\Debug\LR1.03.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\LR1.03\LR1.03\obj\Debug\LR1.03.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\LR1.03\LR1.03\obj\Debug\LR1.03.exe
+C:\Users\Asus\source\repos\LR1.03\LR1.03\obj\Debug\LR1.03.pdb
+C:\Users\Asus\source\repos\LR1.03\LR1.03\obj\Debug\LR1.03.exe.config
+C:\Users\Asus\source\repos\LR1.03\LR1.03\obj\Debug\LR1._03.CandyControl.resources
+C:\Users\Asus\source\repos\LR1.03\LR1.03\obj\Debug\LR1._03.CandyInputForm.resources

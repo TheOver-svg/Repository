@@ -1,0 +1,3 @@
+﻿  DataTimes.cpp
+C:\Users\Asus\source\repos\LR1_02\LR1_02\DataTimes.cpp(164,1): warning C4715: 'DataTimes::CountDay': not all control paths return a value
+  LR1_02.vcxproj -> C:\Users\Asus\source\repos\LR1_02\x64\Debug\LR1_02.exe

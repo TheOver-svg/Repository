@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36401.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxiCom", "TaxiCom\TaxiCom.csproj", "{9F8BC3FD-B467-485A-942A-E1466CCAA024}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F8BC3FD-B467-485A-942A-E1466CCAA024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F8BC3FD-B467-485A-942A-E1466CCAA024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F8BC3FD-B467-485A-942A-E1466CCAA024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F8BC3FD-B467-485A-942A-E1466CCAA024}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FDE2EA7-6F94-4AF5-9A78-28920DC61B22}
+	EndGlobalSection
+EndGlobal
