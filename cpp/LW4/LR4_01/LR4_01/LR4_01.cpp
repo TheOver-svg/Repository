@@ -1,3 +1,4 @@
+//Варіант 2
 #include "D2.h"
 #include "D3.h"
 
